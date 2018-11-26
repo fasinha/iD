@@ -18,6 +18,8 @@
         "health",
         "infirmary",
         "institution",
+        "medication",
+        "medicine",
         "sanatorium",
         "sanitarium",
         "sick",
